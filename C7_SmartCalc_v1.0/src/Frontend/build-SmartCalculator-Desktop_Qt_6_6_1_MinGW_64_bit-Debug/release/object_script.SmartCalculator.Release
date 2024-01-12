@@ -1,0 +1,10 @@
+release/comm.o
+release/solution.o
+release/toRPN.o
+release/credit_calculator.o
+release/deposit_calculator.o
+release/main.o
+release/mainwindow.o
+release/qcustomplot.o
+release/moc_mainwindow.o
+release/moc_qcustomplot.o

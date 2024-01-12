@@ -1,0 +1,10 @@
+debug/comm.o
+debug/solution.o
+debug/toRPN.o
+debug/credit_calculator.o
+debug/deposit_calculator.o
+debug/main.o
+debug/mainwindow.o
+debug/qcustomplot.o
+debug/moc_mainwindow.o
+debug/moc_qcustomplot.o
